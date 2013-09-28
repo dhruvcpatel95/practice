@@ -7,8 +7,9 @@ int main ()
 {
 	for(int i=0; i <=10; i++)
 	{
-		cout<<"Bacon ";
+		cout<<"Hello world ";
 	}
+
 	return 0;
 }
 
